@@ -1,0 +1,31 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-image: url("menu_image/factorio_start.jpg");
+  background-repeat: no-repeat;
+  background-size: 100vw 100vh; 
+  background-position: top center; 
+  height: 100vh;
+  overflow: hidden;
+}
+
+canvas {
+  background-color: rgb(255, 255, 255);
+  /*padding: 3em;*/
+  display: block;
+  margin: 0 auto;
+  margin-top: 10vh;
+  border: 3px solid black;
+}
+
+#nextButton{
+  margin: 0 auto;
+  display: block;
+  padding: 0;
+}
+
+
+
+
